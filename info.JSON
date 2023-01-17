@@ -1,0 +1,20 @@
+[
+    {
+       "nombre":"Juan Perez",
+       "ocupacion":"Desarrollador Frontend",
+       "añosDeExperiencia": 1,
+       "img":"img/avatar0.jpeg"
+    },
+    {
+      "nombre":"Edgardo Lopez",
+      "ocupacion":"Desarrollador Backend",
+      "añosDeExperiencia": 1,
+      "img":"img/avatar1.jpeg"
+   },
+   {
+      "nombre":"Emilio García",
+      "ocupacion":"Ilustrador",
+      "añosDeExperiencia": 1.5,
+      "img":"img/avatar2.jpeg"
+   }
+ ]
